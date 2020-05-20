@@ -22,4 +22,8 @@ public class Rectangulo {
     return a*b;
     }
     
+    public double obtenerPerimetro(){
+    return (a*2)+(b*2);
+    }
+    
 }
